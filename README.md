@@ -12,4 +12,4 @@ A static site which allows the user to change the background on demand.
 
 # Live site!
 
-- https://youtuberstreams.netlify.app/
+- https://ytbackgroundcolors.netlify.app
